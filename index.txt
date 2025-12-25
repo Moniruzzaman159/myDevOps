@@ -1,1 +1,1 @@
-hello Git testing
+hello Git testing it's second push is working
