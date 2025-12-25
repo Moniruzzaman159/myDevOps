@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git init
-echo "hello Git testing it's second push is working" > index.txt
+echo "hello Git testing it's third push is working" > index.txt
 git status
 git add .
 git status
